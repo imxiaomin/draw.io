@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T09:00:57.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" version="22.1.11" etag="80XRORMQeNLJ8uSzaGJI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T09:07:41.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="tF7LpRF9HvYvJEnHg1xB" version="22.1.11" type="github">
   <diagram name="第 1 页" id="rNSyJ-lCZb1aZMDvHygJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1356" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ws2VhazvxouJ3kQr2rrP-1" value="com::jxnu::onlinemall" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-259" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws2VhazvxouJ3kQr2rrP-3" value="common" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="320" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws2VhazvxouJ3kQr2rrP-4" value="controller" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-329" y="320" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws2VhazvxouJ3kQr2rrP-5" value="entity" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="320" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws2VhazvxouJ3kQr2rrP-6" value="exception" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="320" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws2VhazvxouJ3kQr2rrP-7" value="mapper" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="320" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws2VhazvxouJ3kQr2rrP-8" value="service" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="410" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws2VhazvxouJ3kQr2rrP-9" value="util" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-329" y="410" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
